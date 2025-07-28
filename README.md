@@ -1,6 +1,3 @@
-Here's a professional and well-structured `README.md` for your GitHub project:
-
----
 
 ````markdown
 # 🤖 AI DBA Agent – Natural Language to MySQL
