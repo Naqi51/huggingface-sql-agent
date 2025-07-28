@@ -19,7 +19,7 @@ AI DBA Agent is a local assistant that converts plain English instructions into 
   - Viewing, joining, filtering, and counting data
 - ✅ Persistent `USE database` context
 - ✅ Logs all executed queries (`query_log.txt`)
-- ✅ CLI-based (Flask UI coming soon)
+
 
 ---
 
@@ -38,7 +38,7 @@ AI DBA Agent is a local assistant that converts plain English instructions into 
 ### 2. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 3. Set your Hugging Face API token
@@ -66,7 +66,7 @@ connection = mysql.connector.connect(
 ## ▶️ Run the Agent
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ---
