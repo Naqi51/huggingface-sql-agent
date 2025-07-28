@@ -35,7 +35,6 @@ AI DBA Agent is a local assistant that converts plain English instructions into 
 
 ---
 
-## 📦 Installation
 
 ### 1. Clone the repo
 
@@ -111,7 +110,5 @@ ai-dba-agent/
 * GitHub: [@Naqi51](https://github.com/Naqi51)
 * Built with ❤️ using MySQL + LLM
 
-```
 
----
 
