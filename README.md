@@ -32,14 +32,6 @@ AI DBA Agent is a local assistant that converts plain English instructions into 
 
 ---
 
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/ai-dba-agent.git
-cd ai-dba-agent
-````
-
 ### 2. Install dependencies
 
 ```bash
