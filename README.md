@@ -33,6 +33,8 @@ AI DBA Agent is a local assistant that converts plain English instructions into 
 ---
 
 
+````
+
 ### 2. Install dependencies
 
 ```bash
@@ -93,12 +95,17 @@ ai-dba-agent/
 └── query_log.txt       # Auto-generated query history
 ```
 
+---
+
+## 📜 License
+
+MIT License © 2025 \[Your Name]
+
+---
 
 ## 🙋‍♂️ Author
 
 * **Mohammad Naqiuddin**
 * GitHub: [@Naqi51](https://github.com/Naqi51)
 * Built with ❤️ using MySQL + LLM
-
-
 
