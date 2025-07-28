@@ -97,9 +97,6 @@ ai-dba-agent/
 
 ---
 
-## 📜 License
-
-MIT License © 2025 \[Your Name]
 
 ---
 
