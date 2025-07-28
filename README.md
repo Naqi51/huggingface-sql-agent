@@ -32,6 +32,7 @@ AI DBA Agent is a local assistant that converts plain English instructions into 
 
 ---
 
+
 ### 2. Install dependencies
 
 ```bash
