@@ -95,10 +95,7 @@ ai-dba-agent/
 └── query_log.txt       # Auto-generated query history
 ```
 
----
 
-
----
 
 ## 🙋‍♂️ Author
 
